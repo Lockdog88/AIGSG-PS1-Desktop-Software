@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>map_pin.png</file>
+        <file>geotag.png</file>
+    </qresource>
+</RCC>
